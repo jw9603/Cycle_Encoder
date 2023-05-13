@@ -1,4 +1,5 @@
 # Research
+I can do it.
 This is an accepted thesis in the 2022KSC paper and graph_analyis.ipynb is a code that analyzes the results of the experiment.
  
  - https://www.kiise.or.kr/conference/KSC/2022/
