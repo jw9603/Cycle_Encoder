@@ -31,7 +31,13 @@ The example diagram is as follows.
 The results are as belows.
 ```
 Detected Cycles: [[0, 2, 3, 1], [0, 1, 3, 2]]
+
 ```
+## Additional Information 😢😢
+
+Unfortunately, this research was discontinued due to identified limitations.
+
+
 
 
 ## Acknowledgment
