@@ -27,6 +27,7 @@ QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answeri
 https://github.com/michiyasunaga/qagnn
 
 GNN is a Counter? Revisiting GNN for Question Answering. Wang, Kuan and Zhang, Yuyu and Yang, Diyi and Song, Le and Qin, Tao. ICLR 2022.
+https://github.com/kuan-wang/graph-soft-counter
 
 ```
 Many thanks to the authors and developers!
