@@ -19,6 +19,20 @@ If you look at the paper, it is applied to two models, QA-GNN and GSC.
 
 We only provide the code for counting cycles for each node.
 
+If you want to see how the cycles are printed,
+```
+python ./cycle_count.py
+```
+
+The example diagram is as follows.
+
+![이미지](./fig/example1.png)
+
+The results are as belows.
+```
+Detected Cycles: [[0, 2, 3, 1], [0, 1, 3, 2]]
+```
+
 
 ## Acknowledgment
 This repo is built upon the following works:
