@@ -18,3 +18,15 @@ If you look at the paper, it is applied to two models, QA-GNN and GSC.
 ## How to run:
 
 We only provide the code for counting cycles for each node.
+
+
+## Acknowledgment
+This repo is built upon the following works:
+```
+QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering. Michihiro Yasunaga and Hongyu Ren and Antoine Bosselut and Percy Liang and Jure Leskovec. NAACL 2021. 
+https://github.com/michiyasunaga/qagnn
+
+GNN is a Counter? Revisiting GNN for Question Answering. Wang, Kuan and Zhang, Yuyu and Yang, Diyi and Song, Le and Qin, Tao. ICLR 2022.
+
+```
+Many thanks to the authors and developers!
